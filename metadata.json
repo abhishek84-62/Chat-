@@ -1,0 +1,6 @@
+{
+  "name": "NEON CHAT",
+  "description": "A futuristic, real-time chat and file sharing platform with glassmorphism UI and secure key-based access.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
